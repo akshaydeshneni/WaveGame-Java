@@ -1,3 +1,3 @@
 # WaveGame-Java
-This is the java code for a game called wave.
-Download the jar and start playing.
+This is the Java Code for a Game which I developed.
+Download the jar and run it to start playing and have fun.
