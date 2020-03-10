@@ -1,2 +1,2 @@
-# WaveGame_Java
+# WaveGame-Java
 This is the java code for a game called wave.
